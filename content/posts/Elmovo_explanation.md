@@ -1,7 +1,7 @@
 ---
 title: "Electric delivery moped rentals"
 date: 2023-05-02T16:58:25+01:00
-draft: true
+draft: false
 ---
 
 I was co-founder of a gig-economy focused electric moped rental service, the idea of which was to match bike rentals to the times the riders work, whether that was every day or just once or twice a week. Riders could book and pick up a bike from one of our locations, do a shift and return the bike. The only alternative options were weekly moped rentals, usually with a 4-week minimum.

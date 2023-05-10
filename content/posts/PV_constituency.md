@@ -1,7 +1,7 @@
 ---
 title: "Solar PV by constituency"
 date: 2023-05-09T16:58:25+01:00
-draft: true
+draft: false
 ---
 
 Political gains to be had from backing Solar PV
