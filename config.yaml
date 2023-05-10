@@ -3,6 +3,8 @@ languageCode: en-gb
 title: James Royall Portfolio
 theme: PaperMod
 
+canonifyURLs: true
+
 params:
   homeInfoParams:
     Title: "Data analysis"
