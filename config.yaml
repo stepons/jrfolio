@@ -1,0 +1,15 @@
+baseURL: ""
+languageCode: en-gb
+title: James Royall Portfolio
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Data analysis"
+    Content: Some examples of my work
+
+  socialIcons: 
+    - name: linkedin
+      url: "https://www.linkedin.com/in/jamesroyall/"
+    - name: twitter
+      url: "https://twitter.com/jamesroyall"
