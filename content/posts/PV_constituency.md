@@ -8,17 +8,17 @@ draft: false
 
 The good folks at Open Climate Fix, with their open data and code policy, have made a dataset of precise solar PV locations available which I have mapped against electoral constituencies in Great Britain. It’s a relatively small sample size of 24,000 (compared to the 1m+ locations that exist) but still shows a representative spread with the expected urban concentrations and includes some surprising, at least to me, hotspots, eg Peterborough, Leicester and Colchester.
 
-![targets](/img/pv_map_small.png)
+![Map of PV installations in GB](/img/pv_map_small.png)
 
 Maybe they are due to local council initiatives – Peterborough had a free solar scheme in 2015 and both Leicestershire and Essex county councils have been running solar group buying schemes – or else down to supercharged reporting of PV installations on the ground in these areas.
 
 To look in detail at PV locations by constituency winners at the 2019 general election, the UK government figures from BEIS have comprehensive data on all PV installations, which total 1.12m in the UK as of February 2023. This shows urban concentrations of PV sites in Labour seats are completely outweighed by the dispersed spread in Conservative more rural areas – 22.5% and 69% of the UK total respectively – with SNP constituencies taking 6%. 
 
-![targets](/img/percent_pv_party.png)
+![Bar graph of PV installations by winning constituencies](/img/percent_pv_party.png)
 
 Even taking into account population and looking at the number of PV installations per capita, pro-solar policies would benefit Conservative constituents more than any other party bar Plaid Cymru, with the Conservative figure 1.8 times the Labour number. (Assuming that numbers of PV systems already installed are an indicator of future interest.)
 
-![targets](/img/pv_per_capita_700.png)
+![Number of PV installations per million population in winning constituencies](/img/pv_per_capita_700.png)
 
 Add to this that 57% of voters who owned their own home outright voted Conservative, as did 43% with mortgages (home ownership presumably being a near prerequisite for installing solar panels). Also 58% of people intending to vote Conservative at the next election want to see more renewables deployed to bring down bills and 46% of voters say they would be less likely to vote for a party that pledged to get rid of the Net Zero target.
 
