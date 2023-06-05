@@ -1,5 +1,5 @@
 ---
-title: "Cycling, weather, COVID and brown fat"
+title: "Cycling: weather, COVID and brown fat"
 date: 2023-06-02T15:41:49+01:00
 draft: false
 ---
@@ -20,7 +20,7 @@ The quarterly total cycle figures show the expected pattern also. So we can star
 
 I want to see how temperature and precipitation affect rider numbers, so I got hourly weather data from Open Meteo to merge with the TfL info. The TfL data had a column for ‘Period’, with the ‘AM peak’ running from 07:00-10:00, so I chose to use the corresponding temperature at 8am. Open Meteo uses a system of numerous weather codes, but most of the TfL entries were label either ‘dry’ or ‘wet’ so I could use those with some cleanup. I then filtered by weekday and AM peak to give me the required morning rush hour data from the 205 Central London locations where counting was carried out.
 
-<h4>Cycling and temperature<h4>
+### Cycling and temperature<
 
 Clearly temperature affects the number of people deciding to ride to work but by how much? 
 
@@ -42,7 +42,7 @@ Are people that use hire bikes less ‘hardy’ than those that own their bikes?
 
 The plots are very similar except for different rider numbers, so behaviour hardly differs between the two groups. 
 
-<h4>Cycling in wet weather<h4>
+### Cycling in wet weather
 
 Rain used to stop me riding whatever the temperature, that is until I got full waterproofs after which it makes almost no difference. But the majority of people will just think it better to take the tube, so I figured that rain would have a much bigger impact on rider numbers.
 
@@ -70,7 +70,7 @@ The comparatively large effect of rain can in part be explained by there being m
 
 Also cycling commutes in London are likely to be easily replaced by public transport, which becomes the least hassle option. But the same is probably not true for motorbikes and mopeds where distances travelled can be much greater. It would be interesting to compare figures for these groups and also figures for a city with poor public transport.
 
-<h4>Cycling and COVID-19<h4>
+### Cycling and COVID-19
 
 The first bar chart above shows the effect on overall cycling numbers of the pandemic; a huge fall in numbers in 2020, with 2021 still nowhere near the 2019 total. The year on year drop in cycling was 55.6%, however the number of passenger journeys on the London Underground dropped by 77.9% (financial year figures). Some tube passengers did switch to cycling as [reported by TfL](https://tfl.gov.uk/info-for/media/press-releases/2021/december/new-tfl-data-shows-huge-increase-in-the-proportion-of-journeys-made-on-foot-and-by-cycle-during-the-pandemic).
 
@@ -86,7 +86,7 @@ Looking at the numbers of riders on rainy days shows a similar trend in the fall
 
 The figure charts the drop in mean total cycle trips on rainy days and the figure is lower for 2021, meaning that during the pandemic 23 percent fewer people were put off cycling by the rain compared to the year before the pandemic.
 
-<h4>Cycling and brown fat<h4>
+### Cycling and brown fat
 
 I watched a Vox report (link) on brown fat and how it makes the same air temperature feel cold in the autumn and warm in the spring, as the amount of brown fat in the body increases with exposure to cold and brown fat is used in thermoregulation to produce heat. This makes a certain temperature feel cold in the autumn, but the same temperature feel warm in the spring as the body has produced more brown fat during the winter as an adaptive mechanism. 
 
