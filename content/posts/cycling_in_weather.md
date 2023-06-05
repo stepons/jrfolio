@@ -4,8 +4,6 @@ date: 2023-06-02T15:41:49+01:00
 draft: false
 ---
 
-### Getting beyond the obvious
-
 I’ve been riding a bike in London since 1993 so looking at a Transport for London dataset of bike trips was inevitable. Clearly rain and cold are what put off most people, but how much difference does it make? Did the pandemic and avoidance of public transport make people hardier? And does brown fat make 5 degrees feel warmer in February than in November?
 
 I chose the Central London TfL data as I wanted to look at commuters. They are (mostly) consistent in having to make a journey five days a week, but get to choose which mode of transport they use to make that journey. Let's look at the broad picture. 
@@ -20,15 +18,15 @@ The quarterly total cycle figures show the expected pattern also. So we can star
 
 I want to see how temperature and precipitation affect rider numbers, so I got hourly weather data from Open Meteo to merge with the TfL info. The TfL data had a column for ‘Period’, with the ‘AM peak’ running from 07:00-10:00, so I chose to use the corresponding temperature at 8am. Open Meteo uses a system of numerous weather codes, but most of the TfL entries were label either ‘dry’ or ‘wet’ so I could use those with some cleanup. I then filtered by weekday and AM peak to give me the required morning rush hour data from the 205 Central London locations where counting was carried out.
 
-### Cycling and temperature<
+### Cycling and temperature
 
 Clearly temperature affects the number of people deciding to ride to work but by how much? 
 
 ![Cycle counts by temperateure (2014-21) lineplot)](/img/cw_fig3.png)
 
-The is a clear linear relationship from the linear regression. Let’s look at the number cycle counts by temperature to see what’s happening at high and low temperatures. The temperatures are rounded to the nearest whole number for plotting purposes.
+The is a clear linear relationship from the regression. Personally I find it just too cold to want to ride a bike any significant distance when the temperature falls to zero and thought there might be a population-wide point where numbers drop precipitously, but this is not the case – some people are oblivious to frozen fingers and others real fair-weather riders.  
 
-Personally I find it just too cold to want to ride a bike any significant distance when the temperature falls to zero and thought there might be a population-wide point where numbers drop precipitously, but this is not the case – some people are oblivious to frozen fingers and others real fair-weather riders.  
+ Let’s look at the number cycle counts by temperature to see what’s happening at high and low temperatures. The temperatures are rounded to the nearest whole number for plotting purposes.
 
 ![Number of cycle counts by temperature barchart](/img/cw_fig4.png)
 
