@@ -64,7 +64,7 @@ Let’s compare averages across all wet and dry days. The average of Total cycle
 
 So wet weather cuts rider numbers by 35.5%, whereas the difference rider numbers over a range of 22 degrees (from +20 to -2) is 24%. 
 
-The comparatively large effect of rain can in part be explained by there being more than 7 dry days for every wet day so there is not a big incentive to investing in waterproofs, which are sometimes imperfect and then have to be dried out at work. 
+The comparatively large effect of rain can in part be explained by there being more than seven dry days for every wet day so there is not a big incentive to investing in waterproofs, which are sometimes imperfect and then have to be dried out at work. 
 
 Also cycling commutes in London are likely to be easily replaced by public transport, which becomes the least hassle option. But the same is probably not true for motorbikes and mopeds where distances travelled can be much greater. It would be interesting to compare figures for these groups and also figures for a city with poor public transport.
 
@@ -76,17 +76,17 @@ Again looking at my experience, I completely avoided public transport for over 1
 
 ![Drop in cycle trips due to temperature](/img/cw_fig10.png)
 
-Comparing the effect of temperature on cycling before and during the pandemic the absolute numbers are not so important, though of course are lower in 2021 as more people worked remotely. What is more important is the steepness of the regression line – the 2019 plot shows a typical pattern with a significant drop in cycling as it gets colder. By contrast the line for 2021 is nearly flat, so many more people persisted in cycling as it got colder.
+Comparing the effect of temperature on cycling before and during the pandemic the absolute numbers are not so important, though of course are lower in 2021 as more people worked remotely. What is more important is the steepness of the regression line – the 2019 plot shows a typical pattern with a significant drop in cycling as it got colder. By contrast the line for 2021 is nearly flat, so many more people persisted in cycling with the same drop in temperature.
 
-Looking at the numbers of riders on rainy days shows a similar trend in the fall on the average numbers of riders on rainy days compared to dry days.
+Looking at the numbers of riders on rainy days shows a similar trend in the fall of the average numbers of riders on rainy days compared to dry days.
 
 ![Drop in cycle trips due to wet weather](/img/cw_fig11.png)
 
-The figure charts the drop in mean total cycle trips on rainy days and the figure is lower for 2021, meaning that during the pandemic 23 percent fewer people were put off cycling by the rain compared to the year before the pandemic.
+The bar chart shows the drop in mean total cycle trips on rainy days and the figure is lower for 2021, meaning that during the pandemic 23 percent fewer people were put off cycling by the rain compared to the year before the pandemic.
 
 ### Cycling and brown fat
 
-I watched a Vox report (link) on brown fat and how it makes the same air temperature feel cold in the autumn and warm in the spring, as the amount of brown fat in the body increases with exposure to cold and brown fat is used in thermoregulation to produce heat. This makes a certain temperature feel cold in the autumn, but the same temperature feel warm in the spring as the body has produced more brown fat during the winter as an adaptive mechanism. 
+I watched a [Vox report] (https://youtu.be/zpcI_g_zrpk) on brown fat and how it makes the same air temperature feel cold in the autumn and warm in the spring, as the amount of brown fat in the body increases with exposure to cold and brown fat is used in thermoregulation to produce heat. This makes a certain temperature feel cold in the autumn, but the same temperature feel warm in the spring as the body has produced more brown fat during the winter as an adaptive mechanism. 
 
 I thought that the cycling data could be a good illustration of this and so have plotted the counts of cycle trips against temperature for the last three and first three months of the year. The expectation being that for a given temperature there will be more trips at the end of winter.
 
