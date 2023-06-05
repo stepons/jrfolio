@@ -12,9 +12,9 @@ The main constraint on the service was the range of the bikes and therefore, how
 
 ![targets](/img/elmovo_rental_length.png)
 
-We had complaints that bikes did not last the full 6-hour rental period – and this is evident from the box plots for the four branches. The 75th percentile at all locations is below the 6-hour mark and the medians are closer to, and in one case below, 5 hours. With 3-hour rentals the 75th percentiles are at or above 3 hours and the distributions are also negatively skewed, meaning that a greater proportion of rentals finished at, or close to, the 3-hour period. The pattern is likely to have been similar for the 6-hour rentals without the battery range issue.
+We had complaints that bikes did not last the full 6-hour rental period – and this is evident from the box plots for the four branches. The 75th percentile at all locations is below the 6-hour mark and the medians are closer to, and in one case below, 5 hours. With 3-hour rentals the 75th percentiles are at or above 3 hours and the distributions are also negatively skewed, meaning that a greater proportion of rentals finished at, or close to, the 3-hour period. The pattern is likely to have been similar for the 6-hour rentals without the battery range issue. Cambridge Heath Road (CHR) shows some of the longest rentals for both 3 and 6-hour sessions which is due to the area being quieter for food deliveries resulting in riders spending more time waiting.
 
-The Swiss Cottage (SC) location fared worse than the the other 3 and there is one principal reason for this: the branch was based at a Deliveroo kitchen which closed at 11pm when a gate was locked, so there was a hard cut-off for bikes to be returned whatever the rental start time. 
+The Swiss Cottage (SC) location fared worse than the the others on 6-hour rentals finishing early and there is one principal reason for this: the branch was based at a Deliveroo kitchen which closed at 11pm when a gate was locked, so there was a hard cut-off for bikes to be returned whatever the rental start time. 
 
 We had also thought that it might be because the site served Hampstead, which meant a lot of hills that drained the batteries more quickly. However looking at the distance covered during rentals tells a different story.
 
