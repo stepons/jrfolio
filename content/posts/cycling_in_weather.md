@@ -4,7 +4,7 @@ date: 2023-06-02T15:41:49+01:00
 draft: false
 ---
 
-I’ve been riding a bike in London since 1993 so looking at a Transport for London dataset of bike trips was inevitable. Clearly rain and cold are what put off most people, but how much difference does it make? Did the pandemic and avoidance of public transport make people hardier? And does brown fat make 5 degrees feel warmer in February than in November?
+I’ve been riding a bike in London since 1993 so looking at a Transport for London dataset of bike trips was pretty much inevitable. Clearly rain and cold are what put off most people from riding year round, but how much difference does it make? Did the pandemic and avoidance of public transport make people hardier? And does brown fat make 5 degrees feel warmer in February than in November?
 
 I chose the Central London TfL data as I wanted to look at commuters. They are (mostly) consistent in having to make a journey five days a week, but get to choose which mode of transport they use to make that journey. Let's look at the broad picture. 
 
@@ -82,11 +82,11 @@ Looking at the numbers of riders on rainy days shows a similar trend in the fall
 
 ![Drop in cycle trips due to wet weather](/img/cw_fig11.png)
 
-The bar chart shows the drop in mean total cycle trips on rainy days and the figure is lower for 2021, meaning that during the pandemic 23 percent fewer people were put off cycling by the rain compared to the year before the pandemic.
+The bar chart shows the drop in mean total cycle trips on rainy days and the figure is lower for 2021, meaning that during the pandemic 23% fewer people were put off cycling by the rain compared to the year before the pandemic.
 
 ### Cycling and brown fat
 
-I watched a [Vox report] (https://youtu.be/zpcI_g_zrpk) on brown fat and how it makes the same air temperature feel cold in the autumn and warm in the spring, as the amount of brown fat in the body increases with exposure to cold and brown fat is used in thermoregulation to produce heat. This makes a certain temperature feel cold in the autumn, but the same temperature feel warm in the spring as the body has produced more brown fat during the winter as an adaptive mechanism. 
+I watched a [Vox report](https://youtu.be/zpcI_g_zrpk) on brown fat and how it makes the same air temperature feel cold in the autumn and warm in the spring, as the amount of brown fat in the body increases with exposure to cold and brown fat is used in thermoregulation to produce heat. This makes a certain temperature feel cold in the autumn, but the same temperature feel warm in the spring as the body has produced more brown fat during the winter as an adaptive mechanism. 
 
 I thought that the cycling data could be a good illustration of this and so have plotted the counts of cycle trips against temperature for the last three and first three months of the year. The expectation being that for a given temperature there will be more trips at the end of winter.
 
