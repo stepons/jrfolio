@@ -26,7 +26,7 @@ Comparing the other 2 locations we have distance data for, Devonshire Row Mews (
 
 A note on the number of outliers. There are a large number at the shorter time-scales as we had some technical issues which meant that we had to manually end rentals and restart them with a new moped. There are a greater number at DRM as that was by far the most popular location with the greatest number of rentals overall. Rentals below an hour long were removed from the dataset.
 
-Looking at a violin plot of all rentals by start time, the evening peak is very pronounced, as is the preference for 6-hour rentals. There is some evidence for the 3-hour rentals being used to keep working later in the evening after a 6-hour rental. The plan had been to increase utilisation rates by renting to non-food couriers during the working day, however the onset of the pandemic stopped progress at an early stage.
+Looking at a violin plot of all rentals by start time, the evening peak is very pronounced, as is the preference for 6-hour rentals. There is some evidence for the 3-hour rentals being used to keep working later in the evening after a 6-hour rental, which reinforces that riders would like to rent for longer work shifts than the batteries allow. The plan had been to increase utilisation rates by renting to non-food couriers during the working day when rental rates were lower, however the onset of the pandemic stopped progress at an early stage.
 
 ![targets](/img/elmovo_rental_start_time.png)
 

@@ -16,7 +16,7 @@ To look in detail at PV locations by constituency winners at the 2019 general el
 
 ![Bar graph of PV installations by winning constituencies](/img/percent_pv_party.png)
 
-Even taking into account population and looking at the number of PV installations per capita, pro-solar policies would benefit Conservative constituents more than any other party bar Plaid Cymru, with the Conservative figure 1.8 times the Labour number. (Assuming that numbers of PV systems already installed are an indicator of future interest.)
+Even taking into account population and looking at the number of PV installations per capita, pro-solar policies would benefit Conservative constituents more than any other party bar Plaid Cymru, with the Conservative figure 1.8 times the Labour number. (Assuming that numbers of PV systems already installed are an indicator of future interest, while recognising installations will have been in wealthier homes able to make the investment.)
 
 ![Number of PV installations per million population in winning constituencies](/img/pv_per_capita_700.png)
 
@@ -28,5 +28,5 @@ Whatever the reasons for past policy decisions, the positive news is it’s clea
 
 To compare with other European countries the UK had 14.4GW of solar PV installed in February 2023 which increased by 0.7GW over the previous year, France had 14.7GW installed in June 2021 and has an aid package in place to increase rooftop solar by 3.7GW before 2026, while Germany had 65.9GW installed at the end of 2021, up by 7.2GW the previous year (source Mordor). Germany’s population is c. 23% greater than France and GB.
 
-*NB: The figures on PV installations include all sizes of installation not just residential however 96.4% are less than or equal to 10kWp, which is the maximum size of almost all residential installations.* 
+*NB: The figures on PV installations in the UK include all sizes of installation not just residential. however 96.4% are less than or equal to 10kWp, which is the maximum size of almost all residential installations.* 
 
