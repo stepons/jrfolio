@@ -22,3 +22,5 @@ params:
       url: "https://www.linkedin.com/in/jamesroyall/"
     - name: twitter
       url: "https://twitter.com/jamesroyall"
+    - name: github
+      url: "https://github.com/stepons/postworkings"
