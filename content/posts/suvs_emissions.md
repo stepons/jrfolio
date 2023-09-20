@@ -28,7 +28,7 @@ The other major factor affecting emissions is drag, both aerodynamic and the rol
 
 ![Yearly CO2 emissions per kilogram of top 10 selling UK car models by category lineplot](/img/suv_fig4.png)
 
-Unsurprisingly bigger SUVs produce more emissions for a given weight of car. It’s interesting to see that non-SUVs’ emissions per kilogram have also increased in recent years even though both weight and overall emissions of cars in this category have decreased. Anecdotally it seems that all cars have got larger (which would explain some of the weight increase) and also appear to have adopted a flatter, taller nose – possibly SUV-influenced design choices.
+Unsurprisingly bigger SUVs produce more emissions for a given weight of car. It’s interesting to see that non-SUVs’ emissions per kilogram have also increased in recent years even though both average weight and emissions of cars in this category have decreased. Anecdotally it seems that non-SUV cars have got larger and also appear to have adopted a flatter, taller nose – possibly SUV-influenced design choices.
 
 So where does this leave us? Let’s look at sales numbers.
 
