@@ -6,11 +6,11 @@ draft: false
 
 SUVs came into existence via an emissions break granted to US pick-up trucks during the 1970s so that, as working vehicles, they could do their job without being hampered by efficiency standards introduced during the energy crisis. Car makers subsequently realised that the new ‘light truck’ category could be used as the basis for passenger cars that had more relaxed emissions standards and the SUV was born, with the first Jeep Cherokee launched in 1984.
 
-I’ve seen references to the increased emissions caused by SUVs generally but not any details or charts for the UK so I have produced my own from lists of top 10 selling car models by year* and published vehicle stats. The effect on overall emissions is clearly dependent on the numbers of each model sold so I’ve used weighted averages to take this into account.
+I’ve seen references to the increased emissions caused by SUVs generally but not any details or charts for the UK so I have produced my own from lists of top 10 selling car models by year(1) and published vehicle stats. The effect on overall emissions is clearly dependent on the numbers of each model sold so I’ve used weighted averages to take this into account.
 
 ![Yearly average CO2 emissions ratings of top 10 selling UK car models lineplot](/img/suv_fig1.png)
 
-Emissions started rising from 2018 onwards. Is this down to SUVs? Let’s look at the two categories** of cars plotted separately. 
+Emissions started rising from 2018 onwards. Is this down to SUVs? Let’s look at the two categories(2) of cars plotted separately. 
 
 ![Yearly weighted average CO2 emissions ratings of top 10 selling UK car models by category lineplot](/img/suv_fig2.png)
 
@@ -38,16 +38,13 @@ So where does this leave us? Let’s look at sales numbers.
 Both the number of SUV models included in the top 10 and the number of SUV cars sold passed the non-SUV figures for the first time in 2022, so SUVs are undoubtedly on the rise. Leaving aside pros and cons for the cars’ occupants and other road users, from a resource point of view they increase consumption, using more materials to manufacture and more energy to drive. 
 
 And importantly this will make a difference as the national fleet of cars is electrified. Larger quantities of mineral ores will be needed for batteries and more electricity will be required to charge them, which also increases pressure on the transmission grid. 
-Does anyone benefit? With SUVs generally significantly more expensive – in 2020 the average retail price of an SUV in Europe was 59% higher than that of a hatchback – car manufacturers do get better profit margins from them despite a decrease in overall sales volumes***. 
+Does anyone benefit? With SUVs generally significantly more expensive – in 2020 the average retail price of an SUV in Europe was 59% higher than that of a hatchback – car manufacturers do get better profit margins from them despite a decrease in overall sales volumes(3). 
 
 Consumers clearly like SUVs – but for the average buyer, how much of that preference is because of the manifest benefits of SUV ownership and how much is down to marketing, the influence of TV and film, or following the trend?
 
 
 *Notes
-* Tesla entered the top 10 with the Model 3 in 2021 and Model Y in 2022. Weight and emissions of electric cars are not directly comparable with petrol powered models so I have left out these cars from the annual figures, meaning that these years show averages for nine cars, not 10
-
-** The non-SUV category is mostly hatchbacks but includes saloons. The SUV category is made up of crossovers and various-sized SUVs. But the top 10 selling list of cars tends to include the lowest cost models in both categories
-
-*** https://www.jato.com/oems-are-selling-more-suvs-but-are-they-selling-more-vehicles/
-
-Car sales stats are from best-selling-cars.com and technical stats from parkers.co.uk and autoevolution.com*
+1. Tesla entered the top 10 with the Model 3 in 2021 and Model Y in 2022. Weight and emissions of electric cars are not directly comparable with petrol powered models so I have left out these cars from the annual figures, meaning that these years show averages for nine cars, not 10
+2. The non-SUV category is mostly hatchbacks but includes saloons. The SUV category is made up of crossovers and various-sized SUVs. But the top 10 selling list of cars tends to include the lowest cost models in both categories
+3. https://www.jato.com/oems-are-selling-more-suvs-but-are-they-selling-more-vehicles/
+4. Car sales stats are from best-selling-cars.com and technical stats from parkers.co.uk and autoevolution.com*
