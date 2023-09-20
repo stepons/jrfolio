@@ -43,8 +43,8 @@ Does anyone benefit? With SUVs generally significantly more expensive – in 20
 Consumers clearly like SUVs – but for the average buyer, how much of that preference is because of the manifest benefits of SUV ownership and how much is down to marketing, the influence of TV and film, or following the trend?
 
 
-*Notes
-1. Tesla entered the top 10 with the Model 3 in 2021 and Model Y in 2022. Weight and emissions of electric cars are not directly comparable with petrol powered models so I have left out these cars from the annual figures, meaning that these years show averages for nine cars, not 10
-2. The non-SUV category is mostly hatchbacks but includes saloons. The SUV category is made up of crossovers and various-sized SUVs. But the top 10 selling list of cars tends to include the lowest cost models in both categories
-3. https://www.jato.com/oems-are-selling-more-suvs-but-are-they-selling-more-vehicles/
-4. Car sales stats are from best-selling-cars.com and technical stats from parkers.co.uk and autoevolution.com*
+*Notes*
+1. *Tesla entered the top 10 with the Model 3 in 2021 and Model Y in 2022. Weight and emissions of electric cars are not directly comparable with petrol powered models so I have left out these cars from the annual figures, meaning that these years show averages for nine cars, not 10*
+2. *The non-SUV category is mostly hatchbacks but includes saloons. The SUV category is made up of crossovers and various-sized SUVs. But the top 10 selling list of cars tends to include the lowest cost models in both categories*
+3. *https://www.jato.com/oems-are-selling-more-suvs-but-are-they-selling-more-vehicles/*
+4. *Car sales stats are from best-selling-cars.com and technical stats from parkers.co.uk and autoevolution.com*
