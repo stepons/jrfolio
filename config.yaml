@@ -24,5 +24,5 @@ params:
       url: "https://twitter.com/jamesroyall"
     - name: github
       url: "https://github.com/stepons/postworkings"
-    - name: other
+    - name: tableau
       url: "https://public.tableau.com/app/profile/james.royall/vizzes"
