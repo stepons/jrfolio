@@ -8,7 +8,7 @@ I’ve been riding a bike in London since 1993 so looking at a Transport for Lon
 
 I chose the Central London TfL data as I wanted to look at commuters. They are (mostly) consistent in having to make a journey five days a week, but get to choose which mode of transport they use to make that journey. 
 
-{{< gist stepons fdffb60931d656d54cb7caba0aac5f8b >}}
+{{< gist stepons cf145a82048d8e8ffa6ee5a9809a4fe0 >}}
 
 The Central London data is collected from 210 sites. Let's look at the broad picture. 
 
