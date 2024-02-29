@@ -20,7 +20,7 @@ We see that total cycle trips – which combines private cycles and public hire 
 
 The quarterly total cycle figures show an expected pattern also. So we can start to look in more detail.
 
-I want to see how temperature and precipitation affect rider numbers, so I got hourly weather data from Open Meteo to merge with the TfL info. The TfL data had a column for ‘Period’, with the ‘AM peak’ running from 07:00-10:00, so I chose to use the corresponding temperature at 8am. Open Meteo uses a system of numerous weather codes, but most of the TfL entries were label either ‘dry’ or ‘wet’ so I could use those with some cleanup. I then filtered by weekday and AM peak to give me the required morning rush hour data from the 205 Central London locations where counting was carried out.
+I want to see how temperature and precipitation affect rider numbers, so I got hourly weather data from Open Meteo to merge with the TfL info. The TfL data had a column for ‘Period’, with the ‘AM peak’ running from 07:00-10:00, so I chose to use the corresponding temperature at 8am. Open Meteo uses a system of numerous weather codes, but most of the TfL entries were label either ‘dry’ or ‘wet’ so I could use those with some cleanup. I then filtered by weekday and AM peak to give me the required morning rush hour data from the 210 Central London locations where counting was carried out.
 
 ### Cycling and temperature
 
@@ -28,7 +28,7 @@ Clearly temperature affects the number of people deciding to ride to work but by
 
 ![Cycle counts by temperateure (2014-21) lineplot)](/img/cw_fig3a.png)
 
-The is a clear linear relationship from the regression. Personally I find it just too cold to want to ride a bike any significant distance when the temperature falls to zero and thought there might be a population-wide point where numbers drop precipitously, but this is not the case – some people are oblivious to frozen fingers and others real fair-weather riders. Over a 20 degree change in temperature there is a 9% increase in cycle numbers.
+The is linear relationship evident from the regression. Personally I find it just too cold to want to ride a bike any significant distance when the temperature falls to zero and thought there might be a population-wide point where numbers drop precipitously, but this is not the case – some people are oblivious to frozen fingers and others real fair-weather riders. Over a 20 degree change in temperature there is a 9% increase in cycle numbers.
 
 Are people that use hire bikes less ‘hardy’ than those that own their bikes? If this were the case we would expect to see a steeper line for the hire bikes.
 
@@ -72,7 +72,7 @@ Again looking at my experience, I completely avoided public transport for over 1
 
 ![Drop in cycle trips due to temperature](/img/cw_fig6a.png)
 
-Comparing the effect of temperature on cycling before and during the pandemic the absolute numbers are not so important, though of course are lower in 2021 as more people worked remotely. What is more important is the steepness of the regression line – the 2019 plot shows a typical pattern with a significant drop in cycling as it got colder. By contrast the line for 2020-21 is nearly flat, so people persisted in cycling with the same drop in temperature.
+Comparing the effect of temperature on cycling before and during the pandemic the absolute numbers are not so important, though of course are lower in 2021 as more people worked remotely. What is more important is the angle of the regression line – the 2019 plot shows a typical pattern with a significant drop in cycling as it got colder. By contrast the line for 2020-21 is nearly flat, so people persisted in cycling with the same drop in temperature.
 
 Looking at the numbers of riders on rainy days shows a similar trend in the fall of the mean numbers of riders on rainy days compared to dry days.
 
@@ -86,7 +86,7 @@ I watched a [Vox report](https://youtu.be/zpcI_g_zrpk) on brown fat and how it m
 
 I thought that the cycling data could be a good illustration of this and so have plotted the counts of cycle trips against temperature for the last three and first three months of the year. The expectation being that for a given temperature there will be more trips at the end of winter.
 
-![Cycle counts by temperature - the effect of brown fat](/img/cw_fig12.png)
+![Cycle counts by temperature - the effect of brown fat](/img/cw_fig7.png)
 
 There is very little difference between the plots and they actually show more cycle trips at the start of winter than the end. So any effect of brown fat is not visible in the data. It could be that city dwellers spend so much time inside heated buildings that they are not exposed to the cold enough to change the amount of brown fat their bodies produce – it would be interesting to plot similar data pre and post the start of the war in Ukraine, as people turned thermostats down in response to energy price increases. It could also be that any effect would be small, so that an extra layer of clothing would be enough to counter it.
 
