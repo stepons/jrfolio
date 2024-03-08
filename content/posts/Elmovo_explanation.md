@@ -14,13 +14,13 @@ Then rental start times are plotted by days of the week to show the demand patte
 
 It is clear that battery life limits the duration of the 6-hour rentals and booking patterns further suggest that rentals of longer than 6-hours would be desirable.
 
+{{< gist stepons f81e482fdfa003848c9e70762a1a784f >}}
+
 ### Rider choices dictated by battery capacity
 
 I was co-founder of a gig-economy focused electric moped rental service, the USP of which was to match bike rentals to the times the riders work, whether that was every day or just once or twice a week. Riders could book and pick up a bike from one of our locations, do a shift and return the bike.
 
 The main constraint on the service was the range of the bikes and therefore, how long a rider could use the bike before running out of charge. We estimated that the batteries should last 6 hours including time waiting for deliveries and set standard rental length to that. We subsequently introduced 3-hour rentals based on rider feedback.
-
-{{< gist stepons 9b52946639af905e3dd0f4ba9e0e7513 >}}
 
 We had complaints that bikes did not last the full 6-hour rental period – and this is evident from the box plots for the four branches. 
 

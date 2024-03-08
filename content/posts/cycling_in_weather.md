@@ -14,13 +14,13 @@ Then rental start times are plotted by days of the week to show the demand patte
 
 It is clear that battery life limits the duration of the 6-hour rentals and booking patterns further suggest that rentals of longer than 6-hours would be desirable.
 
+{{< gist stepons f4e9c75d3ac421d84882c63e27b70ca1 >}}
+
 ### Overview
 
 I’ve been riding a bike in London since 1993 so looking at a Transport for London dataset of bike trips was pretty much inevitable. Clearly rain and cold are what put off most people from riding year round, but how much difference does it make? Did the pandemic and avoidance of public transport make people hardier? And does brown fat make 5 degrees C feel warmer in February than in November?
 
 I chose the Central London TfL data as I wanted to look at commuters. They are (mostly) consistent in having to make a journey five days a week, but get to choose which mode of transport they use to make that journey. 
-
-{{< gist stepons f4e9c75d3ac421d84882c63e27b70ca1 >}}
 
 The Central London data is collected from 210 sites. Let's look at the broad picture. 
 
