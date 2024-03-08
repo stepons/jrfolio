@@ -42,10 +42,10 @@ A note on the number of outliers. There are a large number at the shorter time-s
 
 Looking at a violin plot of all rentals by start time, the evening peak is very pronounced, as is the preference for 6-hour rentals. The peak for 3-hour rentals is later than for 6-hour rentals, which suggests the 3-hour sessions were being used to keep working later in the evening after a 6-hour rental, which reinforces that riders would like to rent for longer work shifts than the batteries allow. What is clear is that the mopeds are underutilised outside mealtimes. The plan had been to increase utilisation rates by renting to non-food couriers during the working day when rental rates were lower, however the onset of the pandemic stopped progress at an early stage.
 
-![targets](/img/el_fig3a_.png)
+![targets](/img/el_fig3a.png)
 
 The hard cut-off of the plots of some days at the end of the evening are cause by the start time data being saved by hour only and not minutes. Therefore on quieter days like Monday and Wednesday there are no rentals past 9pm and all rentals during the previous hour are given a start time of 8pm exactly.
 
 The pattern of rental start times has to be looked at in combination with the average daily numbers of rentals at each hour which shows just how popular the early evening 6-hour rentals are and the differential in demand overall between the two durations.
 
-![targets](/img/el_fig3b_.png)
+![targets](/img/el_fig3b.png)
