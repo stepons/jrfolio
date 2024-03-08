@@ -4,11 +4,23 @@ date: 2023-06-02T15:41:49+01:00
 draft: false
 ---
 
+### Abstract
+
+An analysis of the performance of electric delivery mopeds and how the battery life affects rider behaviour. The data is from the company Elmovo that operated in London in 2019-20.
+
+Rental duration and distance are plotted by rental location and the results analysed in the context of the different geographies around the rental stations. 
+
+Then rental start times are plotted by days of the week to show the demand patterns for the service and corresponding utilisation of the mopeds.
+
+It is clear that battery life limits the duration of the 6-hour rentals and booking patterns further suggest that rentals of longer than 6-hours would be desirable.
+
+### Overview
+
 I’ve been riding a bike in London since 1993 so looking at a Transport for London dataset of bike trips was pretty much inevitable. Clearly rain and cold are what put off most people from riding year round, but how much difference does it make? Did the pandemic and avoidance of public transport make people hardier? And does brown fat make 5 degrees C feel warmer in February than in November?
 
 I chose the Central London TfL data as I wanted to look at commuters. They are (mostly) consistent in having to make a journey five days a week, but get to choose which mode of transport they use to make that journey. 
 
-{{< gist stepons cf145a82048d8e8ffa6ee5a9809a4fe0 >}}
+{{< gist stepons f4e9c75d3ac421d84882c63e27b70ca1 >}}
 
 The Central London data is collected from 210 sites. Let's look at the broad picture. 
 
@@ -74,7 +86,7 @@ Again looking at my experience, I completely avoided public transport for over 1
 
 Comparing the effect of temperature on cycling before and during the pandemic the absolute numbers are not so important, though of course are lower in 2021 as more people worked remotely. What is more important is the angle of the regression line – the 2019 plot shows a typical pattern with a significant drop in cycling as it got colder. By contrast the line for 2020-21 is nearly flat, so people persisted in cycling with the same drop in temperature.
 
-Looking at the numbers of riders on rainy days shows a similar trend in the fall of the mean numbers of riders on rainy days compared to dry days.
+Looking at the numbers of riders on rainy days shows a similar trend in the fall of the mean numbers of riders on rainy days compared to dry days with the same temperature.
 
 ![Drop in cycle trips due to wet weather](/img/cw_fig6b.png)
 
