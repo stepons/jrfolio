@@ -4,6 +4,18 @@ date: 2023-05-09T16:58:25+01:00
 draft: false
 ---
 
+### Abstract
+
+The UK has fallen behind other comparable European nations in the amount of solar PV capacity installed, in part due to less generous subsidies. To see if this makes sense in terms of voting preferences of those installing solar panels this study plots solar PV installations on a map of constituencies.
+
+The non-profit Open Climate Fix has amassed precise location information on solar PV in the UK in order to forecast ultra short-term solar energy generation to improve grid efficiency. This is mapped using geopandas with Ordnance Survey constituency data and election data from the House of Commons Library. 
+
+The percentage of total PV installations by political party and number of installations per million population by political party are then plotted using full UK solar PV installation figures from National Statistics. 
+
+Most solar panels are located in Conservative voting constituencies, therefore it appears that the government has not been serving its voters well on this policy issue.
+
+{{< gist stepons 7c8451993437336063fa82798fc90d2e >}}
+
 ### Political gains to be had from backing Solar PV
 
 The good folks at [Open Climate Fix](https://www.openclimatefix.org), with their open data and code policy, have made a dataset of precise solar PV locations available which I have mapped against electoral constituencies in Great Britain. It’s a relatively small sample size of 24,000 (compared to the 1m+ locations that exist) but still shows a representative spread with the expected urban concentrations and includes some surprising, at least to me, hotspots, eg Peterborough, Leicester and Colchester.
