@@ -14,7 +14,7 @@ The percentage of total PV installations by political party and number of instal
 
 Most solar panels are located in Conservative voting constituencies, therefore it appears that the government has not been serving its voters well on this policy issue.
 
-{{< gist stepons 7c8451993437336063fa82798fc90d2e >}}
+{{< gist stepons 9b84504de2f6424572d960792fe3d638 >}}
 
 ### Political gains to be had from backing Solar PV
 
