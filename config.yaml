@@ -16,8 +16,8 @@ params:
   homeInfoParams:
     Title: "Data analysis"
     Content: >
-      Some examples of my work below using pandas, matplotlib, seaborn, geopandas, etc.
-      Tableau visualisations are at the last of the four links.
+      Some examples of my work below using pandas, matplotlib, seaborn, geopandas, data scraping, etc.
+      Tableau visualisations are at the last of the four links icons.
 
   socialIcons: 
     - name: linkedin
