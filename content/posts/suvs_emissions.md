@@ -18,6 +18,8 @@ The study shows that SUVs have substantially increased emissions of the most pop
 
 {{< gist stepons 32b9422e88c52ba2d17adbc6dc9fc763 >}}
 
+### Analysis
+
 SUVs came into existence via an emissions break granted to US pick-up trucks during the 1970s so that, as working vehicles, they could do their job without being hampered by efficiency standards introduced during the energy crisis. Car makers subsequently realised that the new ‘light truck’ category could be used as the basis for passenger cars that had more relaxed emissions standards and the SUV was born, with the first Jeep Cherokee launched in 1984.
 
 I’ve seen references to the increased emissions caused by SUVs generally but not any details or charts for the UK so I have produced my own from lists of top 10 selling car models by year(1) and published vehicle stats. The effect on overall emissions is clearly dependent on the numbers of each model sold so I’ve used weighted averages to take this into account.
