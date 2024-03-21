@@ -6,7 +6,7 @@ draft: false
 
 ### Abstract
 
-The UK has fallen behind other comparable European nations in the amount of solar PV capacity installed, in part due to less generous subsidies. To see if this makes sense in terms of voting preferences of those installing solar panels this study plots solar PV installations on a map of constituencies.
+The UK has fallen behind other comparable European nations in the amount of solar PV capacity installed, in part due to less generous subsidies. To see if this makes sense in terms of voting preferences of those installing solar panels, this study plots solar PV installations on a map of constituencies.
 
 The non-profit Open Climate Fix has amassed precise location information on solar PV in the UK in order to forecast ultra short-term solar energy generation to improve grid efficiency. This is mapped using geopandas with Ordnance Survey constituency data and election data from the House of Commons Library. 
 
