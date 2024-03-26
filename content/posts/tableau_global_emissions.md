@@ -32,4 +32,4 @@ The CO2 intensity should decrease at a faster rate as more renewable capacity is
 
 Coal generation was actually decreasing before 2021 when the world economy started to rebound after the hard lockdowns at the start of the pandemic and Europe had to restart coal fired power stations as gas imports from Russia fell. It is likely that coal use will decline again as more renewables capacity comes online.
 
-{{< gist stepons 7ef9604b9a2a8afeee7ab0fe5f1e375b >}}
+{{< gist stepons e80033d5bf911389a67ac5f63c1a1eee >}}
