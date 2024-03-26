@@ -8,7 +8,7 @@ draft: false
 
 I have created a Tableau Story using the 2023 dataset from Ember energy think tank to analyse global electricity generation trends since 2000. GDP data from the world bank has been added to look at emissions in relation to GDP per capita.
 
-Two static dashboards are below. The full Story can be seen with interactive dashboards [here] (https://public.tableau.com/app/profile/james.royall/vizzes).
+Two static dashboards are below. The full Story can be seen with interactive dashboards [here](https://public.tableau.com/app/profile/james.royall/vizzes).
 
 ### Global generation and emissions
 
