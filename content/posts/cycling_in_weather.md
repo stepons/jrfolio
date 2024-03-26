@@ -70,7 +70,7 @@ The relative humidity is higher on wet days than dry and the difference becomes 
 
 Let’s compare averages across all wet and dry days. The average of Total cycles for all dry days is 19 and this number drops by 4 on wet days, so a 22% decrease. (For some context to this figure the TfL data gives conditions for each 15 minute count and has a number of descriptors. I included any that indicated that it was actually raining at the time, such as ‘light rain’ or ‘drizzle’, but did not include those that indicated intermittent rain, like ’showers’ or ‘light showers’.)
 
-So wet weather cuts rider numbers by 22%, whereas the difference rider numbers over a range of 20 degrees is 9%. 
+So wet weather cuts rider numbers by 22%, whereas the change in rider numbers over a range of 20 degrees is 9%. 
 
 The comparatively large effect of rain can in part be explained by there being more than seven dry days for every wet day so there is not a big incentive to investing in waterproofs, which are sometimes imperfect and then have to be dried out at work. 
 
@@ -100,9 +100,9 @@ I thought that the cycling data could be a good illustration of this and so have
 
 ![Cycle counts by temperature - the effect of brown fat](/img/cw_fig7.png)
 
-There is very little difference between the plots and they actually show more cycle trips at the start of winter than the end. So any effect of brown fat is not visible in the data. It could be that city dwellers spend so much time inside heated buildings that they are not exposed to the cold enough to change the amount of brown fat their bodies produce – it would be interesting to plot similar data pre and post the start of the war in Ukraine, as people turned thermostats down in response to energy price increases. It could also be that any effect would be small, so that an extra layer of clothing would be enough to counter it.
+There is very little difference between the plots and they actually show a slightly higher number of cycle trips at the start of winter than the end. So any effect of brown fat is not visible in the data. It could be that city dwellers spend so much time inside heated buildings that they are not exposed to the cold enough to change the amount of brown fat their bodies produce – it would be interesting to plot similar data pre and post the start of the war in Ukraine, as people turned thermostats down in response to energy price increases. It could also be that any effect would be small, so that an extra layer of clothing would be enough to counter it.
 
-The fact that there are in fact a slightly larger number of trips at the start of winter is probably down to inertia in people’s habits; they continue riding through autumn until they are forced off their bikes by bad weather, perhaps by rain as much as temperature. And in the new year it takes them a while to get out their bikes and start riding again as the weather improves, essentially ‘missing out’ on some days that are objectively good cycling-weather days.
+The fact that there are in fact a slightly larger count of cycles at the start of winter is probably down to inertia in people’s habits; they continue riding through autumn until they are forced off their bikes by bad weather, perhaps by rain as much as temperature. And in the new year it takes them a while to get out their bikes and start riding again as the weather improves, essentially ‘missing out’ on some days that are objectively good cycling-weather days.
 
 
 

@@ -44,7 +44,7 @@ Looking at a violin plot of all rentals by start time, the evening peak is very 
 
 ![targets](/img/el_fig3a.png)
 
-The hard cut-off of the plots of some days at the end of the evening are cause by the start time data being saved by hour only and not minutes. Therefore on quieter days like Monday and Wednesday there are no rentals past 9pm and all rentals during the previous hour are given a start time of 8pm exactly.
+The hard cut-off of the plots of some days at the end of the evening are cause by the start time data being filtered by hour only, removing the minutes data. Therefore with 3-hour rentals on for example Tuesday and Wednesday at 10pm all rentals during the hour are given a start time of 10pm exactly. The effect is only seen for 3-hour sessions due to the smaller rental count.
 
 The pattern of rental start times has to be looked at in combination with the average daily numbers of rentals at each hour which shows just how popular the early evening 6-hour rentals are and the differential in demand overall between the two durations.
 
