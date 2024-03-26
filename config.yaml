@@ -17,7 +17,7 @@ params:
     Title: "Data analysis"
     Content: >
       Some examples of my work below using pandas, matplotlib, seaborn, geopandas, data scraping, etc.
-      Tableau visualisations are at the last of the four links icons. Version tracking with Github, linked to Jira.
+      Version tracking is with Github, linked to Jira.
 
   socialIcons: 
     - name: linkedin
