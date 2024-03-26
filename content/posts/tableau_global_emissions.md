@@ -8,9 +8,7 @@ draft: false
 
 I have created a Tableau Story using the 2023 dataset from Ember energy think tank to analyse global electricity generation trends since 2000. GDP data from the world bank has been added to look at emissions in relation to GDP per capita.
 
-The full Story can be seen with interactive dashboards [here] (https://public.tableau.com/app/profile/james.royall/vizzes).
-
-{{< gist stepons 7ef9604b9a2a8afeee7ab0fe5f1e375b >}}
+Two static dashboards are below. The full Story can be seen with interactive dashboards [here] (https://public.tableau.com/app/profile/james.royall/vizzes).
 
 ### Global generation and emissions
 
@@ -24,7 +22,7 @@ However overall emissions have continued to increase throughout the period, exce
 
 Coal dominates at over 8 megatonnes of CO2, though there are indications that coal emissions have plateaued. It's share of overall generation is falling, so it is only the increase in demand for electricity and return to coal in Europe after the Ukraine invasion that prolongs the increase in coal emissions.
 
-### Demand, CO2 intensity and generation capacity by energy source
+### Demand and CO2 intensity, generation capacity by fuel type
 
 Despite the near relentless increase in demand for electricity, the carbon intensity – emissions per unit of electricity generated – have started to come down.
 
@@ -34,3 +32,4 @@ The CO2 intensity should decrease at a faster rate as more renewable capacity is
 
 Coal generation was actually decreasing before 2021 when the world economy started to rebound after the hard lockdowns at the start of the pandemic and Europe had to restart coal fired power stations as gas imports from Russia fell. It is likely that coal use will decline again as more renewables capacity comes online.
 
+{{< gist stepons 7ef9604b9a2a8afeee7ab0fe5f1e375b >}}
