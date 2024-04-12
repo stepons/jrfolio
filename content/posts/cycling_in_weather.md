@@ -6,15 +6,17 @@ draft: false
 
 ### Abstract
 
-An analysis of the performance of electric delivery mopeds and how the battery life affects rider behaviour. The data is from the company Elmovo that operated in London in 2019-20.
+An analysis of how bicycle rider numbers and behaviour are affected by climatic and other factors, using data from Transport for London combined with weather data from Open Meteo.
 
-Rental duration and distance are plotted by rental location and the results analysed in the context of the different geographies around the rental stations. 
+The effect of temperature on rider numbers is looked at first with expected results, followed by the effect of wet weather which does not produce a linear regression. The reasons for this are investigated.
 
-Then rental start times are plotted by days of the week to show the demand patterns for the service and corresponding utilisation of the mopeds.
+The proposition that COVID made cyclists hardier and less sensitive to bad conditions is then studied.
 
-It is clear that battery life limits the duration of the 6-hour rentals and booking patterns further suggest that rentals of longer than 6-hours would be desirable.
+Finally the data is interrogated to see brown fat build up during winter months would increase the numbers of riders in cold weather at the end of winter compared to the start of winter.
 
-{{< gist stepons f4e9c75d3ac421d84882c63e27b70ca1 >}}
+The cycling data produces clear correlations except in the case of the brown fat analysis.
+
+{{< gist stepons 7075794aa7eeb544381bcdb96cd3cdb0 >}}
 
 ### Overview
 
